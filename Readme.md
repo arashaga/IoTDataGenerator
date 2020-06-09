@@ -1,0 +1,1 @@
+This repository contains the required files to generate IoT synthetic data to push to Azure EventHub
